@@ -96,3 +96,32 @@
     width: 200px;
     }
 }
+
+
+@media (max-width: 1300px) {
+    .sec3-boxes {
+        width: 600px;
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width:1300px) {
+    .sec3-box1 {
+        width: 400px;
+    }
+}
+
+
+@media (max-width:1300px) {
+    .sec3-box2 {
+        width: 400px;
+    }
+}
+
+
+
+@media (max-width:1300px) {
+    .sec3-box3 {
+        width: 400px;
+    }
+}
